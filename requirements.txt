@@ -1,0 +1,15 @@
+# For data handling and core operations
+pandas
+numpy
+tqdm
+
+# For feature engineering and scoring model
+scikit-learn
+lightgbm
+nltk
+
+# For model-based metrics (perplexity, toxicity)
+# Ensure you have a compatible PyTorch version installed
+torch
+transformers
+datasets # For easily downloading C4 dataset shards
